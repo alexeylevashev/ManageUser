@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ManageUser_Shambala
+namespace ManageUser
 {
     class Program
     {
